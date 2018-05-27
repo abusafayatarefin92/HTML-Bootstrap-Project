@@ -6755,14 +6755,18 @@ button.close {
 
 h1{
     color: #ff0033;
+    font-weight: bold;
 }
 h2{
     color: #cc00cc;
+    font-weight: bold;
 }
 h3{
     color: #339900;
     font-style: italic;
+    font-weight: bold;
 }
 h4{
     color: #996600;
+    font-weight: bold;
 }
